@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Makanak Fi Albi Dayman – Your Place in My Heart Always |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 26, 2026 |
+| Lyric Writing Date | April 25, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/makanak-fi-albi-dayman-your-place-in-my-heart-always/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
