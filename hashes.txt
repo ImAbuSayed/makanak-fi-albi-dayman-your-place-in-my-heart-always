@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Makanak Fi Albi Dayman – Your Place in My Heart Always
+
+This log tracks the cryptographic history and versioning for the song **Makanak Fi Albi Dayman – Your Place in My Heart Always** (makanak-fi-albi-dayman-your-place-in-my-heart-always).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T09:00:58.247990 | `v1` | `625a1ba471ca99e26938e9dfa7b776bf31ec9f58f9ca483f253f982f313a5281` | `bbcfdf71abf93fee44619cc95a5452d588a0d88ffc15e5ffcc6faa3068e5179f` | `2026-05-09_makanak-fi-albi-dayman-your-place-in-my-heart-always-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
